@@ -1,8 +1,8 @@
-baseurl: "https://example.com/"
-title: Ghostwriter example
+baseurl: "https://nervousfrog.netlify.app/"
+title: Things i want to remember
 theme: ghostwriter
 languageCode: en-us
-copyright: My Name
+copyright: Johan
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
@@ -28,7 +28,7 @@ privacy:
     useSessionStorage: false
 
 author:
-  name: My Name
+  name: JOhan 
   profile: ""
 
 taxonomies:
@@ -40,27 +40,26 @@ params:
   intro: true
   headline: Ghostwriter example
   description: Ghostwriter example description
-  github: "https://github.com/XXX"
-  gitlab: "https://gitlab.com/XXX"
-  linkedin: "https://linkedin.com/in/XXX/"
+  github: "https://github.com/herbivores"
+  
   twitter: "https://twitter.com/XXX"
   stackoverflow: "https://stackoverflow.com/users/XXX/YYY"
-  facebook: "https://www.facebook.com/username"
-  email: XXX@example.com
+  
+  email: herbivores@nervousfrog.com
   opengraph: true
   shareTwitter: true
   rss: true
-  shareFacebook: true
+  # shareFacebook: true
   shareLinkedIn: false
   dateFormat: "Mon, Jan 2, 2006"
-  exponeaJsUrl: ""
-  exponeaTarget: ""
-  exponeaToken: ""
-  exponeaTrackVisits: false
-  readingTime: true
-  readingTimeText: "Estimated reading time:"
-  fathomUrl: ""
-  fathomSiteId: ""
+  # exponeaJsUrl: ""
+  # exponeaTarget: ""
+  # exponeaToken: ""
+  # exponeaTrackVisits: false
+  # readingTime: true
+  # readingTimeText: "Estimated reading time:"
+  # fathomUrl: ""
+  # fathomSiteId: ""
   # If you want to use plausible(https://plausible.io) for analytics, add this section
   plausibleAnalytics:
     domain: ""
