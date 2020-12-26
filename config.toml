@@ -5,7 +5,6 @@ title = "Herbivores"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
-
 [Privacy]
 
 [Privacy.disqus]
@@ -17,8 +16,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     useSessionStorage = false
 
 [Author]
-    name = "Gustav XII"
-    profile = "https://google.com/+XXX"
+    name = ""
+    profile = ""
 
 [Taxonomies]
     tag = "tags"
@@ -33,10 +32,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     stackoverflow = "/"
     email = "ztihcs@gmail.com"
     opengraph = true
-    shareTwitter = true
+    shareTwitter = false
     shareFacebook = false
     shareGooglePlus = false
-    shareLinkedIn = true
+    shareLinkedIn = false
     dateFormat = "Mon, Jan 2, 2006"
     highlightJsUrl = ""
     highlightJsLocalUrl = ""
@@ -57,17 +56,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/"
     weight = 1
 
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
 #[[menu.main]]
-#    name = "Projects"
-#    url = "/project/"
-#    weight = 2
+#    name = "Contact"
+#    url = "/page/contact/"
+#    weight = 3
 
-[[menu.main]]
-    name = "Contact"
-    url = "/page/contact/"
-    weight = 3
-
-[[menu.main]]
-    name = "About"
-    url = "/page/about/"
-    weight = 4
+#[[menu.main]]
+#    name = "About"
+#    url = "/page/about/"
+#    weight = 4
