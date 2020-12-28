@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Herbivores</title>
+    <title>Posts on Herbivores is on the roll again</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Herbivores</description>
+    <description>Recent content in Posts on Herbivores is on the roll again</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I need to face the world with an open palm</title>
+      <link>/2020/12/28/2020-12-28-i-need-to-face-the-world-with-an-open-palm/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/12/28/2020-12-28-i-need-to-face-the-world-with-an-open-palm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Best R Hugo Blogdown Site End to End Tutorial</title>
       <link>/2020/12/25/2020-12-25/</link>
