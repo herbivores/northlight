@@ -1,6 +1,6 @@
 baseURL = "https://palleschitz.netlify.app/"
 languageCode = "en-us"
-title = "Herbivores"
+title = "Johan Palleschitz"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
