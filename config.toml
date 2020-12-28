@@ -1,6 +1,6 @@
 baseURL = "https://nervousfrog.netlify.app/"
 languageCode = "en-us"
-title = "Herbivores"
+title = "Herbivores is on the roll again"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
