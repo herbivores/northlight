@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
-    <title>Posts on Herbivores is on the roll again</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Herbivores is on the roll again</description>
-=======
-    <title>Posts on Johan Palleschitz</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Johan Palleschitz</description>
->>>>>>> 483e89dd7797c6c821280986ffbb3b895877ed7b
+    <title>Posts on Herbivores</title>
+    <link>https://nervousfrog.netlify.app/post/</link>
+    <description>Recent content in Posts on Herbivores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nervousfrog.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I need to face the world with an open palm</title>
-      <link>/2020/12/28/2020-12-28-i-need-to-face-the-world-with-an-open-palm/</link>
+      <link>https://nervousfrog.netlify.app/2020/12/28/2020-12-28-i-need-to-face-the-world-with-an-open-palm/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/12/28/2020-12-28-i-need-to-face-the-world-with-an-open-palm/</guid>
+      <guid>https://nervousfrog.netlify.app/2020/12/28/2020-12-28-i-need-to-face-the-world-with-an-open-palm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Best R Hugo Blogdown Site End to End Tutorial</title>
-      <link>/2020/12/25/2020-12-25/</link>
+      <link>https://nervousfrog.netlify.app/2020/12/25/2020-12-25/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/12/25/2020-12-25/</guid>
+      <guid>https://nervousfrog.netlify.app/2020/12/25/2020-12-25/</guid>
       <description>Best R Hugo Blogdown Site End to End Tutorialhttps://www.youtube.com/watch?v=9Jqvaoeh1W4
 Hugo Blogdown Site using R/RStudio and hosted for free using Github and Netlify for continuous integration, continuous deployment website.
 CradleToGraveR
@@ -36,30 +30,30 @@ CradleToGraveR
     
     <item>
       <title>Creating a New Theme</title>
-      <link>/2014/09/28/creating-a-new-theme/</link>
+      <link>https://nervousfrog.netlify.app/2014/09/28/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 02:13:50 +0000</pubDate>
       
-      <guid>/2014/09/28/creating-a-new-theme/</guid>
+      <guid>https://nervousfrog.netlify.app/2014/09/28/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>/2014/04/02/goisforlovers/</link>
+      <link>https://nervousfrog.netlify.app/2014/04/02/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 02:13:50 +0000</pubDate>
       
-      <guid>/2014/04/02/goisforlovers/</guid>
+      <guid>https://nervousfrog.netlify.app/2014/04/02/goisforlovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>/2014/04/02/hugoisforlovers/</link>
+      <link>https://nervousfrog.netlify.app/2014/04/02/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>/2014/04/02/hugoisforlovers/</guid>
+      <guid>https://nervousfrog.netlify.app/2014/04/02/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
