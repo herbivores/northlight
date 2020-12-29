@@ -2,7 +2,7 @@ baseurl: "https://nervousfrog.netlify.app/"
 title: Things i want to remember
 theme: ghostwriter
 languageCode: en-us
-copyright: Johan
+copyright: Herbivores
 disqusShortname: XXX
 googleAnalytics: XXX
 pygmentsUseClasses: true
