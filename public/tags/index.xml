@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Tags on Herbivores is on the roll again</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Herbivores is on the roll again</description>
+=======
+    <title>Tags on Johan Palleschitz</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Johan Palleschitz</description>
+>>>>>>> 483e89dd7797c6c821280986ffbb3b895877ed7b
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 02:13:50 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
