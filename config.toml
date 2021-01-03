@@ -25,7 +25,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Params]
     mainSections = ["post"]
-    intro = true
+    intro = false
     headline = "Reflections on Life"
     description = "an introduction to purpose"
     github = "https://github.com/herbivores"
